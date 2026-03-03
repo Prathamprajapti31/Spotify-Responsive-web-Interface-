@@ -205,7 +205,6 @@ body {
 
     color: #1Ed760;
 }
-/* ahiya continue par click karye to home page khuule evu karva anchor tag vaprelo chhee khali */
 .con1 a{
     text-decoration: none;
     color: black;
@@ -213,5 +212,6 @@ body {
 .con1:hover {
     border: 1px solid #121212;
     box-shadow: 5px 5px 5px 5px;
+
 
 }
